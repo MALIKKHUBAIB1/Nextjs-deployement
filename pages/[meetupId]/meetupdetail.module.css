@@ -1,0 +1,8 @@
+.detail {
+  text-align: center;
+  box-shadow: rgb(16, 16, 16) 0 10px 10px rgba(20, 19, 19, 0);
+}
+.detail img {
+  width: 100%;
+  border-radius: 10px;
+}

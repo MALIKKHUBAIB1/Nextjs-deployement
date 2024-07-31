@@ -1,0 +1,46 @@
+# node_modules
+# Dependency directories
+node_modules/
+
+# Next.js build output
+.next/
+
+# Production build output
+out/
+
+# Next.js static files
+/public/static/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage directory used by testing tools
+coverage/
