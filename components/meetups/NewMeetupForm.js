@@ -1,4 +1,4 @@
-import { useRef } from "react";
+import { useRef, useState } from "react";
 import Head from "next/head";
 import Card from "../ui/Card";
 import classes from "./NewMeetupForm.module.css";
